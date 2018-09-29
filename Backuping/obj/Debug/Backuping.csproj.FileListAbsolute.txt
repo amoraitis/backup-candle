@@ -1,0 +1,11 @@
+C:\Users\τασος\Source\Repos\Backuping\Backuping\bin\Debug\Backuping.exe.config
+C:\Users\τασος\Source\Repos\Backuping\Backuping\bin\Debug\Backuping.exe.manifest
+C:\Users\τασος\Source\Repos\Backuping\Backuping\bin\Debug\Backuping.application
+C:\Users\τασος\Source\Repos\Backuping\Backuping\bin\Debug\Backuping.exe
+C:\Users\τασος\Source\Repos\Backuping\Backuping\bin\Debug\Backuping.pdb
+C:\Users\τασος\Source\Repos\Backuping\Backuping\obj\Debug\Backuping.csproj.CoreCompileInputs.cache
+C:\Users\τασος\Source\Repos\Backuping\Backuping\obj\Debug\Backuping.exe.manifest
+C:\Users\τασος\Source\Repos\Backuping\Backuping\obj\Debug\Backuping.application
+C:\Users\τασος\Source\Repos\Backuping\Backuping\obj\Debug\Backuping.exe
+C:\Users\τασος\Source\Repos\Backuping\Backuping\obj\Debug\Backuping.pdb
+C:\Users\τασος\Source\Repos\Backuping\Backuping\obj\Debug\Backuping.csprojAssemblyReference.cache
